@@ -14,7 +14,7 @@
 		2852037B27D7817C00FC6177 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2852037A27D7817C00FC6177 /* Assets.xcassets */; };
 		2852037E27D7817C00FC6177 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2852037C27D7817C00FC6177 /* LaunchScreen.storyboard */; };
 		2852038627D7844E00FC6177 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2852038527D7844E00FC6177 /* GameScene.swift */; };
-		2897DE8327DA3BF200478486 /* itemSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2897DE8227DA3BF200478486 /* itemSound.mp3 */; };
+		285E810C27DEDCD2008D175F /* itemSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 285E810B27DEDCD2008D175F /* itemSound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		2852037D27D7817C00FC6177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2852037F27D7817C00FC6177 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2852038527D7844E00FC6177 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		2897DE8227DA3BF200478486 /* itemSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = itemSound.mp3; path = ../../../../../Downloads/itemSound.mp3; sourceTree = "<group>"; };
+		285E810B27DEDCD2008D175F /* itemSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemSound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				2852037A27D7817C00FC6177 /* Assets.xcassets */,
 				2852037C27D7817C00FC6177 /* LaunchScreen.storyboard */,
 				2852037F27D7817C00FC6177 /* Info.plist */,
-				2897DE8227DA3BF200478486 /* itemSound.mp3 */,
+				285E810B27DEDCD2008D175F /* itemSound.mp3 */,
 			);
 			path = FlappyBird;
 			sourceTree = "<group>";
@@ -134,7 +134,7 @@
 				2852037E27D7817C00FC6177 /* LaunchScreen.storyboard in Resources */,
 				2852037B27D7817C00FC6177 /* Assets.xcassets in Resources */,
 				2852037927D7817900FC6177 /* Main.storyboard in Resources */,
-				2897DE8327DA3BF200478486 /* itemSound.mp3 in Resources */,
+				285E810C27DEDCD2008D175F /* itemSound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
